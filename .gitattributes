@@ -1,0 +1,13 @@
+* annex.backend=SHA256
+*.m3u annex.largefiles=nothing
+*.bml annex.largefiles=nothing
+*.asm annex.largefiles=nothing
+*.md annex.largefiles=nothing
+*.txt annex.largefiles=nothing
+*.csv annex.largefiles=nothing
+*.sh annex.largefiles=nothing
+*.py annex.largefiles=nothing
+*.json annex.largefiles=nothing
+*.ini annex.largefiles=nothing
+*.xml annex.largefiles=nothing
+*.gitkeep annex.largefiles=nothing

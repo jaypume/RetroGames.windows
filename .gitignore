@@ -1,0 +1,79 @@
+*
+
+!emulators/
+!emulators/**/
+
+!environment/
+!environment/**/
+
+!hack/
+!hack/**/
+
+
+
+# LFS 跟踪二进制文件
+!*.3ds
+!*.7z 
+!*.bin
+!*.cci
+!*.cdi
+!*.chd
+!*.cso
+!*.gb 
+!*.gbc
+!*.gcm
+!*.gcz
+!*.iso
+!*.n64
+!*.nds
+!*.pce
+!*.pcm
+!*.rfz
+!*.rvz
+!*.sfc
+!*.sms
+!*.v64
+!*.vb 
+!*.wad
+!*.z64
+!*.zip
+!*.PBP
+!*.exe
+
+# sfc-hd专用
+!*.docx
+!*.ips
+!*.msu
+!*.bps
+!*.wav
+
+# ==========================
+# 下面都是文本文件
+# ==========================
+
+# CD目录
+!*.m3u
+# sfc-hd专用
+!*.bml
+!*.asm
+
+
+# 缩略图
+!*.png
+
+# 说明文档
+!*.md
+!*.txt
+!*.csv
+
+# 脚本
+!*.sh
+!*.py
+
+# 配置文件
+!*.json
+!*.ini
+!*.xml
+
+# 通用白名单
+!*.gitkeep
